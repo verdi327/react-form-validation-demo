@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "name": "react-form-validation",
+  "alias": "react-form-validation",
+  "routes": [
+      {
+        "src": "^/static/(.*)",
+        "dest": "/static/$1"
+      },
+      {
+        "src": ".*",
+        "dest": "/index.html"
+      }
+  ]
+}
