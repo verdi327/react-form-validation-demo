@@ -21,9 +21,9 @@ class App extends React.Component {
   }
 
   validateForm = () => {
-    const {usernameValid, emailValid} = this.state;
+    const {usernameValid, emailValid, passwordValid, passwordConfirmValid} = this.state;
     this.setState({
-      formValid: usernameValid && emailValid
+      formValid: usernameValid && emailValid && passwordValid && passwordConfirmValid
     })
   }
 
