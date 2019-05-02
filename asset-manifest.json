@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-form-validation-demo/static/css/main.515eabf2.chunk.css",
+    "main.js": "/react-form-validation-demo/static/js/main.8b6339dd.chunk.js",
+    "main.js.map": "/react-form-validation-demo/static/js/main.8b6339dd.chunk.js.map",
+    "runtime~main.js": "/react-form-validation-demo/static/js/runtime~main.ccbec553.js",
+    "runtime~main.js.map": "/react-form-validation-demo/static/js/runtime~main.ccbec553.js.map",
+    "static/js/2.4282bdd0.chunk.js": "/react-form-validation-demo/static/js/2.4282bdd0.chunk.js",
+    "static/js/2.4282bdd0.chunk.js.map": "/react-form-validation-demo/static/js/2.4282bdd0.chunk.js.map",
+    "index.html": "/react-form-validation-demo/index.html",
+    "precache-manifest.5e2058c33ba5be5dcf1fc0a440ff3748.js": "/react-form-validation-demo/precache-manifest.5e2058c33ba5be5dcf1fc0a440ff3748.js",
+    "service-worker.js": "/react-form-validation-demo/service-worker.js",
+    "static/css/main.515eabf2.chunk.css.map": "/react-form-validation-demo/static/css/main.515eabf2.chunk.css.map"
+  }
+}
